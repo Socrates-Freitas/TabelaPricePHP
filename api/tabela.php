@@ -130,7 +130,7 @@ function printPage(string $leftBoxContent,string $rightBoxContent,string $tabela
             />
             <script src="js-webshim/minified/polyfiller.js"></script>
             
-            <link rel="stylesheet" href="style.css">
+            <link rel="stylesheet" href="/public/style.css">
     </head>
     <body>
         <div id="result-container">
