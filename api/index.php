@@ -12,7 +12,7 @@
         />
         <script src="js-webshim/minified/polyfiller.js"></script>
         
-        <link rel="stylesheet" href="../public/style.css">
+        <link rel="stylesheet" href="/public/style.css">
     </head>
 
     <body>
@@ -138,7 +138,7 @@
 
       
 
-        <script src="../public/LCG.js"></script>
+        <script src="/public/LCG.js"></script>
 
         <!-- <script type="module" src="funcoesFront.js"></script> -->
         <script type="text/javascript">
